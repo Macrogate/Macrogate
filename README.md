@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Macrogate.
 - 👀 I’m interested in to learn coading and enhance our skills of coding.
-- 🌱 I’m currently learning algothims and data structure peciallization with artificial intellengicy and machine learning. 
+- 🌱 I’m currently learning algothims and data structure speciallization with artificial intellengicy and machine learning. 
 - 💞️ I’m looking to collaborate on microsoft.
 - 📫 you can reach me directly with a touvh of text me of your querry.
 
